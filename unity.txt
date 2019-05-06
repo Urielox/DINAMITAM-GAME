@@ -1,0 +1,13 @@
+fixedupdate = fisicas
+
+seno = objetivo,objetivo inverso y origen
+
+perfil de post procesamiento: 
+
+camara representacion visual de vector de 3 dimensiones
+
+unshader sw directo a la tarjeta grafica
+
+gryengine displacement mapping			 normal mapping		search
+
+normal vector perpendicular al plano 
